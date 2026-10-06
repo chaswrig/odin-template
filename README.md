@@ -1,9 +1,7 @@
-# odin-restaurant-page
-https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page
+# replace with repo name
 
-My attempt at the assignment. Learning how to use webpack, modules, etc.
-Started 2026-10-01.
+This is a template. After creating and cloning repo to local, run npm install to install all the stuff from package.json.
 
-Note: The Lorem Ipsum function will replace the page text on every load/button click. I am aware and that is ok because this project is meant to teach about modules,
+npm run build will build the project
 
-Note2: I am deviating from the assignment because it is more fun.
+npm run dev will launch dev server, page available at local host 8080

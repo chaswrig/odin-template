@@ -1,7 +1,7 @@
 {
-  "name": "odin-restaurant-page",
+  "name": "REPLACE-ME",
   "version": "1.0.0",
-  "description": "https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page",
+  "description": "REPLACE ME",
   "main": "index.js",
   "scripts": {
     "build": "webpack --config webpack.prod.js",
@@ -11,16 +11,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chaswrig/odin-restaurant-page.git"
+    "url": "git+https://github.com/chaswrig/REPLACE-WITH-REPO-NAME.git"
   },
   "keywords": [],
   "author": "chaswrig <42904530+chaswrig@users.noreply.github.com>",
   "license": "MIT",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/chaswrig/odin-restaurant-page/issues"
+    "url": "REPLACE WITH REPO URL"
   },
-  "homepage": "https://github.com/chaswrig/odin-restaurant-page#readme",
+  "homepage": "REPLACE WITH REPO URL TO #readme",
   "devDependencies": {
     "css-loader": "^7.1.5",
     "html-loader": "^5.1.0",
